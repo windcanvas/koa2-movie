@@ -1,0 +1,1 @@
+import { wrireFile } from 'fs'

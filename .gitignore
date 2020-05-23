@@ -1,0 +1,33 @@
+# dependencies  npm包文件
+/node_modules
+
+# production  打包文件
+/build
+/dist
+
+# misc 
+.DS_Store
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.java~
+*.properties~
+*.xml~
+
+# system ignore
+.DS_Store
+
+npm-debug.log*
+
+yarn-error.log*
+yarn.lock
